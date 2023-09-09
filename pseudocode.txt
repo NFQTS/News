@@ -1,0 +1,16 @@
+What is this supposed to do?
+
+Automatically find and distribute relevant news to social media and potentially store it on the blockchain (proof of history)
+
+Why do this?
+
+We need to ensure people have access to relevant news that is relatively propaganda free. Otherwise, people are easily manipulated and misled.
+
+Functionality:
+
+1.) Aggregate news stories from various sources.
+2.) Track headlines, sources, and authors to help us find/rank the reliability of sources and headlines.
+3.) Run the numbers through neural networks that help us predict story relevance.
+4.) Distribute stories that are deemed relevant (start small to avoid overwhelm, then scale to be everywhere, including the possibility of blockchain-powered news)
+5.) Get feedback to improve quality/relevance.
+
