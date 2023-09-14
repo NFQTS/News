@@ -14,3 +14,4 @@ Functionality:
 4.) Distribute stories that are deemed relevant (start small to avoid overwhelm, then scale to be everywhere, including the possibility of blockchain-powered news)
 5.) Get feedback to improve quality/relevance.
 
+NOTE: Should consider adding contextual tags to headline rankings to give the neural network more ways to detect similarities.
