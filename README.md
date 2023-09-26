@@ -1,4 +1,4 @@
 # News
 Repo for providing public access to relevant news.
 
-Status: Deprioritized due to AI rollout, but still active.
+Status: On hold for now until we have better infrastructure...
